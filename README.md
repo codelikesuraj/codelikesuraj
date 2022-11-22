@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Abdulbaki Suraj.
 
 I love learning new things and building awesome stuffs with nothing but the power of code ⚡ 💻. 
-I also enjoy playing video games (mostly sim racing 🏎) and occassionaly hit the gym for some tumbling activities 🤸‍♂️.
+I also enjoy playing video games (mostly sim racing 🏎) and occassionaly hit the open space for some tumbling activities 🤸‍♂️.
 
 [![codelikesuraj's github stats](https://github-readme-stats.vercel.app/api?username=codelikesuraj)](https://github.com/codelikesuraj/github-readme-stats)
 
