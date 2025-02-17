@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-I'm [Abdulbaki Suraj](https://linktr.ee/codelikesuraj), a software developer and cloud enthusiast based in Lagos, Nigeria.
+I'm [Abdulbaki Suraj](https://linktr.ee/codelikesuraj), a software developer, cloud enthusiast and an avid problem solver.
 
-Using mostly TailwindCSS and some JS to power my frontend, I also leverage PHP(with Laravel) and Golang(with any combination of packages) depending on the project's complexity for the backend.
+I find fulfillment working on tools and applications that
+- empower developers and builders like me,
+- streamline business operations and fix bottlenecks,
+- occassionally providing pro bono services for small business, and
+- contributing to open-source.
 
-I'm currently building tools and applications that empower developers, streamline business operations, and assist dreamers like me.
+Currently building Athena, a client and project management tool.
 
 Feel free to connect with me:
 - [LinkedIn](https://linkedin.com/in/abdulbaki-suraj)
