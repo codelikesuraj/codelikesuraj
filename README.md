@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-I'm [Abdulbaki Suraj](https://linktr.ee/codelikesuraj), a software developer and cloud enthusiast based in Lagos, Nigeria.
+I'm **Abdulbaki Suraj**, a software developer and cloud enthusiast from Lagos, Nigeria, passionate about creating solutions that solve real-world problems.
 
-Using mostly TailwindCSS and some JS to power my frontend, I also leverage PHP(with Laravel) and Golang(with any combination of packages) depending on the project's complexity for the backend.
-
-I'm currently building tools and applications that empower developers, streamline business operations, and assist dreamers like me.
+I build tools designed to empower developers, streamline business operations, and drive meaningful impact. My approach is pragmatic and user-focused, always striving to solve problems with clean, efficient solutions.
 
 Feel free to connect with me:
 - [LinkedIn](https://linkedin.com/in/abdulbaki-suraj)
 - [X (formerly Twitter)](https://x.com/abdulbaki_suraj)
+- [Portfolio](https://abdulbakisuraj.com)
